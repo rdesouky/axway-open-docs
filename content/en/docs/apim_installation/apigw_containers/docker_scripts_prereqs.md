@@ -17,7 +17,7 @@ You must have the following installed on your local system:
 * Python version 2.7.x
 * OpenSSL version 1.1 or later
 
-{{< alert title="Note" color="primary" >}}Axway supports Red Hat Enterprise Linux 7 and CentOS Linux version 7 as the base image for Docker containers. Axway supports deployment on any host operating system, cloud provider, or container orchestration system supported by your Docker version. {{< /alert >}}
+{{< alert title="Note" color="primary" >}}Axway supports Red Hat Enterprise Linux 7 and CentOS Linux version 7 as the base image for Docker containers. Axway supports deployment on any host operating system, cloud provider, or container orchestration system supported by your Docker version. My new sentence{{< /alert >}}
 
 For more details on Docker system requirements, see [Docker](https://docs.docker.com/engine/installation/) documentation.
 
@@ -103,8 +103,7 @@ If you are using any external data stores, such as Apache Cassandra for API Mana
 
 ### Start Apache Cassandra
 
-Deploying a Cassandra container is only recommended for development environments. In a production environment, you must configure Cassandra for high availability (HA) as detailed in
-[Configure a Cassandra HA cluster](/docs/cass_admin/cassandra_config/).
+Deploying a Cassandra container is only recommended for development environments. In a production environment, you must configure Cassandra for high availability (HA) as detailed in [Configure a Cassandra HA cluster](/docs/cass_admin/cassandra_config/).
 
 For details on starting Apache Cassandra in a Docker container, see [Docker](https://hub.docker.com/_/cassandra) documentation.
 
