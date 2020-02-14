@@ -17,7 +17,7 @@ You must have the following installed on your local system:
 * Python version 2.7.x
 * OpenSSL version 1.1 or later
 
-{{< alert title="Note" color="primary" >}}Axway supports Red Hat Enterprise Linux 7 and CentOS Linux version 7 as the base image for Docker containers. Axway supports deployment on any host operating system, cloud provider, or container orchestration system supported by your Docker version. My new sentence{{< /alert >}}
+{{< alert title="Note" color="primary" >}}Axway supports Red Hat Enterprise Linux 7 and CentOS Linux version 7 as the base image for Docker containers. Axway supports deployment on any host operating system, cloud provider, or container orchestration system supported by your Docker version. My new sentence my additional sentence{{< /alert >}}
 
 For more details on Docker system requirements, see [Docker](https://docs.docker.com/engine/installation/) documentation.
 
